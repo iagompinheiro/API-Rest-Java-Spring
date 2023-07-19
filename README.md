@@ -9,8 +9,11 @@ Esse Código é uma implementação básica de um controlador de API REST usando
 
 # Tecnologias utilizadas
 -> Java
+ 
 -> Spring Boot
+ 
 -> Maven
+ 
 -> API Rest
 
 # Autor 
