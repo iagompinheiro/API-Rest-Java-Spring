@@ -1,4 +1,3 @@
-# IMP Store 
 # Sobre o projeto
 
 Esse Código é uma aplicação back-end básica de um controlador de API REST usando o framework Spring Boot com Java. Ele define um endpoint para a rota "/products", que responde a solicitação GET retornando uma lista de produtos.
