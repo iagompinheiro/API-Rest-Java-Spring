@@ -4,10 +4,10 @@ public class Departament {
     private Long id;
     private String name;
 
-    public Departament() {
+    public Department() {
 
     }
-    public Departament(Long id, String name) {
+    public Department(Long id, String name) {
         this.id = id;
         this.name = name;
     }
