@@ -7,13 +7,13 @@ Esse Código é uma aplicação back-end básica de um controlador de API REST u
 ![Captura de tela 2023-07-19 202536](https://github.com/iagompinheiro/IMP-Store/assets/130023096/eb573a51-0283-4052-afd1-46778f2c6317)
 
 ## Tecnologias utilizadas
--> Java
+ ● Java
  
--> Spring Boot
+ ● Spring Boot
  
--> Maven
+ ● Maven
  
--> API Rest
+ ● API Rest
 
 ## Autor 
 
